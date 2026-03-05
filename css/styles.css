@@ -66,8 +66,11 @@ header h2 {
 }
 
 /* Profile Image */
-.profile-img {
-    border-radius: 50%;
+.profile-img{
+border-radius:50%;
+width:300px;
+display:block;
+margin:0 auto;
 }
 
 /* Column Layout
